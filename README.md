@@ -23,7 +23,7 @@ alhayat.com.
 
 Each article is tagged by the publishing date, and each related articles are grouped by the query that has been used to retrieve them.
 
-Twenty-two summaries were created with the help of three human experts,  whose native language is Arabic, with a graduate degree in Arabic language. The date that been used was the date of the latest article for each group. All texts are encoded in UTF-8. The total size of the dataset is 1.43 MB.
+Twenty-two summaries were created with the help of three human experts,  whose native language is Arabic, with a graduate degree in Arabic language. The date that been used was the date of the latest article for each group. All texts are encoded in UTF-8. The total size of the dataset is 1.5 MB.
 
 Articles text Format:
 =====================
